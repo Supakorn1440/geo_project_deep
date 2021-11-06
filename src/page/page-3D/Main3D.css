@@ -1,0 +1,123 @@
+.bg {
+  background-image: url(../../assets/img/img.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 969px; */
+  height: 969px;
+  width: 100%;
+  /* filter: contrast(55%); */
+}
+
+.card-login-content {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  opacity: 0.9;
+  height: 760px !important;
+
+}
+
+.card-login-login {
+  height: 760px !important;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  opacity: 0.9;
+}
+
+p {
+  font-family: Roboto;
+}
+
+.font-h1 {
+  font-family: Roboto;
+  font-size: 24px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.font-h2 {
+  font-family: Roboto;
+  font-size: 22px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+.font-16 {
+  font-family: Roboto;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.font-version {
+  color: rgba(169, 169, 169, 1);
+  display: block;
+  align-items: center;
+  text-align: end;
+  margin-top: 10px;
+}
+
+.container-login {
+  /* margin-left: 50px !important;
+    margin-right: 50px !important; */
+
+  padding: 100px;
+}
+
+.font-content-main3d {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  padding-top: 50 !important;
+  padding-left: 50;
+  margin-left: 15%;
+  margin-right: 5%;
+  margin-top: 50px;
+  text-align: center;
+  /* font-size: 10px; */
+}
+
+.logoUP {
+  height: 250px;
+  width: 250px;
+  background-image: url(../../assets/img/logoUP.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn-login {
+  background: #9871a8 !important;
+    color: #fff !important;
+    width: 110px !important;
+    height: 42px;
+    margin-top: 20%;
+    margin-left: 45% !important;
+    margin-right: auto;
+    border-radius: 12px !important;
+    box-sizing: border-box;
+  background-position: center;
+    display: flex !important;
+
+    /* alignItems: center;
+        justifyContent: "flex-end" */
+
+}
+
+.font-data{
+  font-weight: 50px!important;
+  font-size: 18px;
+  margin-top: -2px;
+}
+.btn{
+  margin-left: 10px;
+}

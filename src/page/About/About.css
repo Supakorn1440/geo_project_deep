@@ -1,0 +1,241 @@
+.bg {
+  background-image: url(../../assets/img/img.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 969px; */
+  height: 100%;
+  width: 100%;
+  /* filter: contrast(55%); */
+}
+
+.card-login-content {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  opacity: 0.9;
+  height: 760px !important;
+
+}
+
+.card-login-login {
+  height: 760px !important;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  opacity: 0.9;
+}
+
+p {
+  font-family: Roboto;
+}
+
+.font-h1 {
+  font-family: Roboto;
+  font-size: 24px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.font-h2-about {
+  font-family: Roboto;
+  font-size: 56px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+.font-16 {
+  font-family: Roboto;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.font-version {
+  color: rgba(169, 169, 169, 1);
+  display: block;
+  align-items: center;
+  text-align: end;
+  margin-top: 300px;
+}
+
+.container-login {
+  /* margin-left: 50px !important;
+    margin-right: 50px !important; */
+
+  padding: 100px;
+}
+
+.font-content-about {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.TeamA {
+  
+  
+  background-size: cover;
+  background-image: url(../../assets/img/TeamA.jpg);
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  display: block;
+  align-items: center;
+  height: 300px;
+  width: 60%;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-top: 40px;
+  box-shadow: 2px 2px 4px 2px #868686;
+}
+.TeamB {
+  
+  
+  background-size: cover;
+  background-image: url(../../assets/img/TeamB.jpg);
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  display: block;
+  align-items: center;
+  height: 300px;
+  width: 60%;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-top: 40px;
+  box-shadow: 2px 2px 4px 2px #868686;
+              
+  
+  
+}
+.TeamC {
+  
+  
+  background-size: cover;
+  background-image: url(../../assets/img/TeamC.jpg);
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  display: block;
+  align-items: center;
+  height: 300px;
+  width: 60%;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-top: 40px;
+  box-shadow: 2px 2px 4px 2px #868686;
+              
+  
+  
+}
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn-login {
+  background: #9871a8 !important;
+    color: #fff !important;
+    width: 150px;
+    height: 42px;
+    margin-top: 15px;
+    margin-left: 300px;
+    margin-right: auto;
+    border-radius: 12px !important;
+    box-sizing: border-box;
+  background-position: center;
+  display: flex !important;
+    /* alignItems: center;
+        justifyContent: "flex-end" */
+
+}
+
+.img-block{
+width: 100%;
+display: flex ;
+box-sizing: border-box;
+background-position: center;
+}
+
+.Name-TeamA{
+font-family: Roboto;
+font-size: 18px;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+}
+.Name-TeamA{
+font-family: Roboto;
+font-size: 20px;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+margin-left: 4%;
+margin-top: 5%;
+
+color:rgba(169, 169, 169, 1)
+}
+.Name-TeamB{
+  font-family: Roboto;
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 4%;
+  margin-top: 5%;
+  
+  color:rgba(169, 169, 169, 1)
+}.Name-TeamC{
+  font-family: Roboto;
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 4%;
+  margin-top: 5%;
+  
+  color:rgba(169, 169, 169, 1)
+}
+
+
+.Name-TeamA-text{
+  font-family: Roboto;
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 4%;
+  margin-top: 5%;
+  
+  color:rgba(169, 169, 169, 1)
+}.Name-TeamB-text{
+  font-family: Roboto;
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 4%;
+  margin-top: 5%;
+  
+  color:rgba(169, 169, 169, 1)
+
+}.Name-TeamC-text{
+  font-family: Roboto;
+  font-size: 20px;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  margin-left: 4%;
+  margin-top: 5%;
+  
+  color:rgba(169, 169, 169, 1)
+}
+
+.bg-cardcontent{
+  width: 20%;
+  height: 500px;
+  /* background: #000; */
+  border-radius: 15px;
+  box-shadow: 2px 2px 4px 2px #868686;
+  margin-left: 9%;
+}

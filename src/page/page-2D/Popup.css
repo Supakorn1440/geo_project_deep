@@ -1,0 +1,25 @@
+.ImgMap{
+    width: 800px; 
+    height: 430px;
+    background-color: #fff;
+    margin-left: 30%;
+}
+
+.paper-data{
+    margin-left: 1px;
+}
+
+.head-Data{
+    font-size: 25px;
+  font-family: Roboto;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(116, 106, 106);
+}
+
+.ImgMap-area{
+    width: 100%;
+    height: 100%;
+    background: #fff;
+}
